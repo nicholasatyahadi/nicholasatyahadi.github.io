@@ -1,0 +1,10 @@
+div.background{
+    background-color: #3f90ec;
+    border: none;
+    width: auto;
+}
+
+div.transbox p {
+    margin: 5%;
+    color: #ffffff;
+  }
